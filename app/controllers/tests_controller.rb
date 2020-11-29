@@ -1,3 +1,3 @@
 class TestsController < ApplicationController
-  root　'tests#index'
+  root 'tests#index'
 end
